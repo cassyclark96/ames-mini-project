@@ -49,7 +49,7 @@ Before you begin working on this project, please do the following:
 
 Materials must be submitted by the beginning of class on **Friday, September 11**.
 
-The last day for the Kaggle competition will be **Thursday, September 10 at 5pm*.
+The last day for the Kaggle competition will be **Thursday, September 10 at 5pm**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
