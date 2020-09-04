@@ -37,7 +37,7 @@ Before you begin working on this project, please do the following:
     - strong exploratory data analysis to question correlation and relationship across predictive variables
     - code that reproducibly and consistently applies feature transformation (such as the preprocessing library)
 3. Predict the values for your target column in the test dataset and submit your predictions to Kaggle to see how your model does against unknown data.
-    - **Note**: Kaggle expects to see your submissions in a specific format. Check the challenge's page to make sure you are formatting your CSVs correctly!
+    - **Note**: Kaggle expects to see your submissions in a specific format. Check the challenge's page to make sure you are formatting your CSVs correctly! For an example of the submission being exported and submitted, see the video [here](https://generalassembly.zoom.us/rec/play/r-vdl5JgHn_2VTz9-SZHWAoC7zgQw8qcm21Z0rKLDYNR3mNLaCtMU_6R_TIg_Uw3pT6JvR2od_YuWdKE.kFWPmfHndqI5I_g1?continueMode=true&_x_zm_rtaid=2P8B4hIUS8qfA8uE7mh7gQ.1599240882087.709ac0e68680876426e0287cb0cffac1&_x_zm_rhtaid=904).
     - **You are limited to models you've learned in class**. In other words, you cannot use XGBoost, Neural Networks or any other advanced model for this project.
 4. Evaluate your models!
     - consider your evaluation metrics
@@ -47,50 +47,39 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials must be submitted by the beginning of class on **Friday, July 10**.
+Materials must be submitted by the beginning of class on **Friday, September 11**.
 
-The last day for the Kaggle competition will be **Friday, July 10**.
+The last day for the Kaggle competition will be **Thursday, September 10 at 5pm*.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
 - A README.md (that isn't this file)
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSI-US-12 Regression Challenge](https://www.kaggle.com/c/dsi-us-12-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-us-12-project-2-regression-challenge/leaderboard)" tab.
+- At least one successful prediction submission on [our private Kaggle competition](https://www.kaggle.com/c/ames-iowa-housing-louisville/overview) --  you should see your name in the "[Leaderboard](https://www.youtube.com/watch?v=dQw4w9WgXcQ)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
 
-**Check with your local instructor for how they would like you to submit your repo for review.**
+**You should submit the link to your repository on Google Classroom. Be sure to make the instructional team collaborators so we can see it as well.**
 
 ---
 
 ## Presentation Structure
 
-- **Must be within time limit established by local instructor.**
+- **Must be at lesat 10 minutes.**
 - Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
-- Consider the audience. **Check with your local instructor for direction**.
-- Start with the **data science problem**.
+- Consider the audience. This project should be **treated like an interview technical challenge** so your presentation should be technical and about the steps you took ***and why*** but don't necessarily include every technical detail. We will ask what we want to know too!
+- Start with the **data science problem** and a note on the data itself.
 - Use visuals that are appropriately scaled and interpretable.
 - Talk about your procedure/methodology (high level).
 - Talk about your primary findings.
-- Make sure you provide **clear recommendations** that follow logically from your analyses and narrative and answer your data science problem.
+- Make sure you provide **clear recommendations** that follow logically from your analyses and narrative and answer your data science problem. You want to speak to the quality of your final model, both strengths and limitations.
 
 Be sure to rehearse and time your presentation before class.
 
 ---
 
-## Rubric
-Your local instructor will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
-
-**Scores will be out of 27 points based on the 9 items in the rubric.** <br>
-*3 points per section*<br>
-
-| Score | Interpretation |
-| --- | --- |
-| **0** | *Project fails to meet the minimum requirements for this item.* |
-| **1** | *Project meets the minimum requirements for this item, but falls significantly short of portfolio-ready expectations.* |
-| **2** | *Project exceeds the minimum requirements for this item, but falls short of portfolio-ready expectations.* |
-| **3** | *Project meets or exceeds portfolio-ready expectations; demonstrates a thorough understanding of every outlined consideration.* |
+## Sample Rubric
 
 ### The Data Science Process
 
