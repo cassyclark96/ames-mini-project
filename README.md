@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Data Dictionary](#Data)
+- [Data](#Data)
 - [Objective](#Objective)
 - [Executive Summary](#Executive-Summary)
 - [Requirements](#Requirements)
