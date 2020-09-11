@@ -10,7 +10,7 @@
 
 ## Data
 
-The data dictionary for the Ames Housing Data can be found here (http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
+The data dictionary for the Ames Housing Data can be found here [data](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
 
 ## Objective
 
