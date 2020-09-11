@@ -37,4 +37,4 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 ```
 ## Next Steps
 
-The next steps for this project would be to find any outliers I may have missed as well as test out different feature combinations to see how I can imporve the RMSE score.
+The next steps for this project would be to find any outliers I may have missed as well as test out different feature combinations to see how I can imporve the RMSE score. I would also want to test this model on predicting house prices outside of Ames, Iowa to see if it performs as well globally.
