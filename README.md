@@ -18,9 +18,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression, Lasso, Ridge
 from sklearn.metrics import mean_absolute_error, mean_squared_error
-from sklearn.preprocessing import OneHotEncoder, PolynomialFeatures, StandardScaler
-from sklearn.model_selection import GridSearchCV, train_test_split
-from sklearn.pipeline import Pipeline
 ```
 
 ## Table of Contents
