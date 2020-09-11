@@ -1,9 +1,5 @@
 # Ames Housing Project
 
-## Objective
-
-The objective of this project was to explore the Ames Housing dataset and uses different regression models in order to predict the sale price of homes in Ames, Iowa.
-
 ## Table of Contents
 
 - [Data Dictionary](#Data)
@@ -20,7 +16,7 @@ The data dictionary for the Ames Housing Data can be found here (http://jse.amst
 
 The objective of this project was to use the data given for Ames Housing and build a model that would predict the sale price of houses in Ames, Iowa.
 
-## Summary
+## Executive Summary
 
 I was given a training dataset of 2051 rows and 81 columns and a testing dataset with 878 rows and 80 columns to work with in building models to use against the test dataset in order to predict the housing prices. The cleaning steps I took included converting all the ordinal data into a numerical ranking system. I also used dummy variables for neighborhoods and garage types. I made mini data frames to compare various aspects to price in order to figure out which variables had the highest correlation to sale price. The cleaned data sets contained 2051 rows and 121 columns for the train set and 878 rows and 119 columns for the test set.
 
@@ -30,9 +26,7 @@ Before beginning the modeling process, a baseline score was found of roughly $79
 
 - Jupyter notebook, python 3
 
-## Imports
-
-For this project, I imported a lot of python libraries which included: 
+- For this project, the following libraries will need to be imported: 
 ```
 import pandas as pd
 import numpy as np
@@ -43,4 +37,4 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 ```
 ## Next Steps
 
-The next steps for this project would be to find any outliers I may have missed as well as test out different feature combinations to see I can imporve the RMSE score.
+The next steps for this project would be to find any outliers I may have missed as well as test out different feature combinations to see how I can imporve the RMSE score.
